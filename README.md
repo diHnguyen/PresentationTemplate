@@ -7,6 +7,7 @@ Please feel free to use this template for your research presentation. A few thin
 - Create a figure that contains multiple subfigures
 - Split a slide into multiple columns
 - Create a table + change column spacing
+- Scaling figures and tables 
 
 If you have any recommendations or questions, please don't hesitate to reach out. Additional information will be added in the near future.
 
