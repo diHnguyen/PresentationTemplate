@@ -55,7 +55,7 @@
 \institute[Clemson]
 
 
-\date[Date of Presentation]{}
+\date[Date of Presentation]{Event Name}
 
 \titlegraphic{
     \includegraphics[width=3cm]{clemson-ie.png}%
@@ -138,7 +138,7 @@
 
 
 %%You only need the [fragile] part if you are using verbatim
-\begin{frame}[fragile]{Columns and Graphs}
+\begin{frame}[fragile]{Graphs}
 We can write things outside of each column. 
 
 We can also use \verb|\vspace{}| (\verb|\hspace{}|) to adjust the vertical (horizontal) position of the figure. 
@@ -203,6 +203,18 @@ We can also use \verb|\vspace{}| (\verb|\hspace{}|) to adjust the vertical (hori
             \end{subfigure}
     \caption{Example Graph}
 \end{figure}
+\end{frame}
+
+\begin{frame}{Columns}
+    We can split a slide into multiple columns. 
+    \begin{columns}
+        \begin{column}{0.4\textwidth}
+            Here is Column 1.
+        \end{column}
+        \begin{column}{0.6\textwidth}
+            Here is Column 2.
+        \end{column}
+    \end{columns}
 \end{frame}
 
 \begin{frame}[fragile]{Reporting Results in a Table}
