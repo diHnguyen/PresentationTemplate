@@ -1,4 +1,4 @@
-# Presentation Template (Clemson Purple)
+# OR Presentation Template (Clemson Purple)
 
 I study network problems (Operations Research). This template contains a some items that I have repeatedly used when creating presentation slides. Please feel free to use this template. A few things you can find here:
 - List with bullets and numbered list
