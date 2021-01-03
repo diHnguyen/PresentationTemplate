@@ -16,3 +16,7 @@ Additional information will be added in the near future. If you have any recomme
 
 My preferred way to create Latex code from an Excel table: https://www.latex-tables.com/
 (Note: You may need to make some minor edits after generating the latex code for your table using the website linked above.)
+
+More presentation templates:
+https://github.com/diHnguyen/PresentationTemplate2
+https://github.com/diHnguyen/PresentationTemplate3
