@@ -10,6 +10,8 @@ I study network problems (Operations Research). This template contains a some it
 - Create a table + change column spacing
 - Scaling figures and tables 
 
+View this file directly on Overleaf: https://www.overleaf.com/read/vxqgbvjvxdjy
+
 Additional information will be added in the near future. If you have any recommendations or questions, please don't hesitate to reach out. 
 
 My preferred way to create Latex code from an Excel table: https://www.latex-tables.com/
